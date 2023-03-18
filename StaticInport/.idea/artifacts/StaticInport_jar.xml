@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StaticInport:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StaticInport_jar</output-path>
+    <root id="archive" name="StaticInport.jar">
+      <element id="module-output" name="StaticInport" />
+    </root>
+  </artifact>
+</component>
